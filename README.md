@@ -114,7 +114,7 @@ Upon successful completion of this course, students will be able to:
 - Students who need additional practice should review the official [Microsoft Excel Help and Learning](https://support.microsoft.com/en-us/excel/) resources before completing Excel-based assignments.
 - Students are also encouraged to review this [introductory Excel tutorial](https://youtu.be/rro5t8eHXaY?si=NQKcZE0aYiWwZg27) to familiarize themselves with the software.
 - I am available during office hours to answer questions and provide support with Microsoft Excel.
-- 
+
 ### 📢 Student Responsibilities
 1. **Attend** class prepared to participate in discussions, polls, and other In-Class Activities.
 2. **Ensure** that you can access **UB Learns**, your **UB email**, **Zoom**, and **Microsoft Excel** from the beginning of the semester.
