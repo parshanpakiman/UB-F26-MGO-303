@@ -30,6 +30,8 @@
   - [📝 Homework Submission Format](#-homework-submission-format)
   - [🎓 Letter Grade Scale](#-letter-grade-scale)
 - [📅 Course Calendar](#-course-calendar)
+  - [📝 Homework Topics](#-homework-topics)
+  - [🟥 Exam Dates and Coverage](#-exam-dates-and-coverage)
 
 
 ## 👨‍🏫 Instructor
@@ -276,6 +278,29 @@ The resulting letter grade is **B+**.
 | **16** | **Dec 07<br>**        | Course Review & Exam Preparation | Course review; last day of classes | — | — |
 | **17** | **Dec 09<br>**        | 🟥 Final Exam | — | **7:15 PM–10:15 PM,<br> Jacobs 110** | — |
 
+
+### 📝 Homework Topics
+
+| Assignment | Topics | Released | Due |
+|------------|--------|----------|-----|
+| **HW 1** | Blockbuster case | **Aug 24** | **Sep 02** |
+| **HW 2** | Financial measures | **Sep 09** | **Sep 16** |
+| **HW 3** | Blue Nile case | **Sep 21** | **Sep 30** |
+| **HW 4** | Demand forecasting | **Oct 21** | **Oct 28** |
+| **HW 5** | Cycle inventory | **Oct 28** | **Nov 11** |
+| **HW 6** | Safety inventory | **Nov 11** | **Nov 18** |
+| **HW 7** | Transportation modes, shipment aggregation, transportation costs, etc. | **Nov 18** | **Dec 02** |
+
+### 🟥 Exam Dates and Coverage
+
+| Assessment | Date | Time and Room | Coverage |
+|------------|------|---------------|----------|
+| **Midterm Exam** | **Monday,<br> Oct 19** | **5:00 PM–6:20 PM, Jacobs 110**  | Introduction to supply chains, strategic fit, financial measures, supply chain drivers, distribution networks, supply chain network design, global supply chain networks |
+| **Final Exam** | **Wednesday,<br> Dec 9** | **7:15 PM–10:15 PM, Jacobs 110** | Cumulative, with greater emphasis on forecasting, cycle inventory, safety inventory, and transportation and logistics |
+
+
+<br>
+<br>
 
 ---
 **Note:** The instructor gratefully acknowledges the guidance and resources provided by faculty across UB, UChicago, and UIC in preparing this course.
