@@ -2,7 +2,9 @@
 <p align="center"><img src="UB_logo.png" alt="University at Buffalo Logo" width="200"/></p>
 <div align="center"><hr style="width:100%; border: 2px solid #005bbb; background-color: #005bbb"></div>
 
-# Supply Chain Management (MGO 303)
+<br>
+<h1 align="center"><strong>Supply Chain Management (MGO 303)</strong></h1>
+<br>
 
 
 ## 📑 Table of Contents
@@ -13,20 +15,20 @@
 - [🧭 Course Overview and Objectives](#-course-overview-and-objectives)
 - [📚 Textbook](#-textbook)
 - [📘 Prerequisite or Co-requisite](#-prerequisite-or-co-requisite)
-- [💻 Course Technology](#-course-technology)
+- [💻 Learning Platforms and Technology](#-learning-platforms-and-technology)
   - [UB Learns](#ub-learns)
   - [Zoom](#zoom)
   - [Microsoft Excel](#microsoft-excel)
-  - [📝 Homework Submission Format](#-homework-submission-format)
-  - [Generative AI](#generative-ai)
   - [📢 Student Responsibilities](#-student-responsibilities)
+  - [Generative AI](#generative-ai)
 - [🧾 Academic Integrity](#-academic-integrity)
 - [⚠️ Course Materials Policy](#️-course-materials-policy)
 - [🌍 Inclusive Learning Environment](#-inclusive-learning-environment)
 - [🏛️ Campus Resources](#️-campus-resources)
 - [📊 Grading](#-grading)
   - [Grading Components](#grading-components)
-- [🎓 Letter Grade Scale](#-letter-grade-scale)
+  - [📝 Homework Submission Format](#-homework-submission-format)
+  - [🎓 Letter Grade Scale](#-letter-grade-scale)
 - [📅 Course Calendar](#-course-calendar)
 
 
@@ -65,7 +67,7 @@ Supply chains are the backbone of modern businesses, connecting suppliers, manuf
 
 This course introduces the fundamental concepts, tools, and managerial decisions involved in designing, planning, and operating supply chains. Students will learn how products, information, and financial resources flow through supply chain networks, and how managers make strategic and operational decisions to improve supply chain performance.
 
-Topics include strategic fit, financial measures, supply chain drivers, distribution networks, network design, global supply chains, demand forecasting, inventory management, transportation, logistics, and emerging topics such as artificial intelligence. Throughout the semester, students will apply these concepts through real-world case studies, conceptual and quantitative homework assignments, and in-class activities.
+Topics include strategic fit, financial measures, supply chain drivers, distribution networks, network design, global supply chains, demand forecasting, inventory management, transportation, logistics, and emerging topics such as artificial intelligence. Throughout the semester, students will apply these concepts through real-world case studies, conceptual and quantitative Homework Assignments, and In-Class Activities.
 
 Upon successful completion of this course, students will be able to:
 
@@ -83,17 +85,17 @@ Upon successful completion of this course, students will be able to:
 ## 📚 Textbook
 - The required textbook is [*Supply Chain Management: Strategy, Planning, and Operation*](https://www.pearson.com/en-us/subject-catalog/p/supply-chain-management-strategy-planning-and-operation/P200000005863/9780134731889) (7th Edition) by Sunil Chopra (ISBN: 978-0134731889).
 - Students may purchase or rent the textbook from Pearson, Amazon, the UB bookstore, or another retailer. You are encouraged to select the most affordable option that provides access to the required edition and course material.
-- ⚠️ Several homework assignments are based on case studies contained in the textbook. Therefore, students should obtain access to the textbook by the beginning of the semester.
+- ⚠️ Several Homework Assignments are based on case studies contained in the textbook. Therefore, students should obtain access to the textbook by the beginning of the semester.
 
 
 ## 📘 Prerequisite or Co-requisite
 **Prerequisite:** MGQ 201. Enrollment is restricted to Business Administration majors and Entrepreneurship minors.
 
-## 💻 Course Technology
+## 💻 Learning Platforms and Technology
 
 ### UB Learns
 
-- [UB Learns](https://ublearns.buffalo.edu/) is the primary platform for this course and will serve as the central hub for course materials, announcements, assignment submissions, grades, feedback, and in-class activities.
+- [UB Learns](https://ublearns.buffalo.edu/) is the primary platform for this course and will serve as the central hub for course materials, announcements, assignment submissions, grades, feedback, and In-Class Activities.
 - Students must be able to access UB Learns during every class session using a laptop, tablet, or other suitable device. Many in-class polls, questions, and learning activities will be completed through UB Learns and must be submitted during class.
 - Students are responsible for checking UB Learns regularly and ensuring that their notification settings are properly configured.
 - Please review the [UB Learns Student Guides](https://www.buffalo.edu/lms/guides-students.html) and familiarize yourself with the platform before the beginning of the semester.
@@ -105,30 +107,23 @@ Upon successful completion of this course, students will be able to:
 
 ### Microsoft Excel
 
-- Microsoft Excel will be used for selected homework assignments and in-class activities.
+- Microsoft Excel will be used for selected Homework Assignments and In-Class Activities.
 - Students are expected to have Excel installed and to be comfortable with basic spreadsheet operations, formulas, tables, and charts.
 - Students who need additional practice should review the official [Microsoft Excel Help and Learning](https://support.microsoft.com/en-us/excel/) resources before completing Excel-based assignments.
 - Students are also encouraged to review this [introductory Excel tutorial](https://youtu.be/rro5t8eHXaY?si=NQKcZE0aYiWwZg27) to familiarize themselves with the software.
 
 ### 📢 Student Responsibilities
-1. Attend class prepared to participate in discussions, polls, and other in-class activities.
-2. Ensure that you can access **UB Learns**, your **UB email**, **Zoom**, and **Microsoft Excel** from the beginning of the semester.
-3. Check UB Learns and your UB email regularly for announcements, course updates, assignments, grades, and feedback.
-4. Review and update your [UB Alert contact information](https://emergency.buffalo.edu/sign_up.html) through the HUB Student Center.
-5. Install Microsoft Excel and become familiar with its features prior to the first week of the class.
-6. Complete assigned readings and review course materials before class.
-7. Submit all work in the required format and by the stated deadline.
-8. Follow the course policies regarding academic integrity, collaboration, and generative AI.
-9. 🚫 Food is not permitted during class sessions.
-10. 📧 Include **“MGO-303”** in the subject line of all course-related emails.
+1. **Attend** class prepared to participate in discussions, polls, and other In-Class Activities.
+2. **Ensure** that you can access **UB Learns**, your **UB email**, **Zoom**, and **Microsoft Excel** from the beginning of the semester.
+3. **Check** UB Learns and your UB email regularly for announcements, course updates, assignments, grades, and feedback.
+4. **Review** and update your [UB Alert contact information](https://emergency.buffalo.edu/sign_up.html) through the HUB Student Center.
+5. **Install** Microsoft Excel and become familiar with its features prior to the first week of the class.
+6. **Complete** assigned readings and review course materials before class.
+7. **Submit** all work in the required format and by the stated deadline.
+8. **Follow** the course policies regarding academic integrity, collaboration, and generative AI.
+9. **Do not eat** food during class sessions.
+10. **Include** “MGO-303” in the subject line of all course-related emails.
 
-### 📝 Homework Submission Format
-
-- Submit all homework as **a single PDF file** through **UB Learns**.
-- Include your **name**, **UB Person Number**, and the **homework number** on the first page.
-- Clearly label each question and organize your answers in the same order as the assignment.
-- For quantitative problems, **show your work** and clearly identify your final answer.
-- Ensure your submission is complete and readable.
 
 ### Generative AI
 
@@ -141,7 +136,7 @@ Generative AI tools (e.g., ChatGPT, Claude, Gemini) may be used **to support lea
 - Improving the grammar or clarity of your own writing.
 
 #### 🚫 Not Permitted
-- Using AI to complete homework, in-class activities, quizzes, or exams.
+- Using AI to complete homework, In-Class Activities, quizzes, or exams.
 - Submitting AI-generated work as your own.
 - Using AI to generate solutions for graded assignments unless explicitly authorized by the instructor.
 
@@ -162,7 +157,7 @@ Unauthorized or undisclosed use of AI may constitute a violation of UB's Academi
 
 ## ⚠️ Course Materials Policy
 - Course materials may not be photographed, recorded, reproduced, shared, sold, uploaded, transmitted, or distributed without the instructor’s prior written permission.
-- Course materials include, but are not limited to, slides, lecture notes, recordings, discussion questions, assignments, solutions, exams, in-class activities, and handouts.
+- Course materials include, but are not limited to, slides, lecture notes, recordings, discussion questions, assignments, solutions, exams, In-Class Activities, and handouts.
 - Violations may result in action under UB’s Academic Integrity Policy, Student Code of Conduct, or applicable copyright law.
 
 
@@ -188,14 +183,14 @@ Your academic success and personal well-being are important. Students are encour
 | Component | Weight |
 |-----------|-------:|
 | Homework Assignments (lowest 2 dropped) | **35%** |
-| Midterm Exam | **20%** |
-| Final Exam | **30%** |
+| Midterm Exam (Week 1-7) | **20%** |
+| Final Exam (Cumulative, with greater emphasis on Weeks 8–15) | **30%** |
 | In-Class Activities (lowest 4 dropped) | **15%** |
 | **Total** | **100%** |
 
 ### Grading Components
 
-- **Homework Assignments (35%):** The course includes seven individual homework assignments consisting of case analyses and quantitative problem-solving activities, some of which may be completed in Excel. Assignments are due at the **beginning of class** on the specified due date.
+- **Homework Assignments (35%):** The course includes seven individual Homework Assignments consisting of case analyses and quantitative problem-solving activities, some of which may be completed in Excel. Assignments are due at the **beginning of class** on the specified due date.
 
   > ⚠️ **Homework Policy**  
   > 🚫 Because some assignments will be discussed immediately after submission, **late submissions and extensions are not permitted**. The submission link will automatically close at the deadline, and a missed assignment will receive a zero.  
@@ -213,8 +208,16 @@ Your academic success and personal well-being are important. Students are encour
   > 🚫 In-class activities must be completed during the class session and cannot be completed afterward. A missed activity will therefore receive a zero, except when an accommodation is required by University policy.  
   > ✅ To provide flexibility for occasional absences or unexpected circumstances, the **four lowest in-class activity grades will be dropped** when calculating this portion of the final grade.
 
+### 📝 Homework Submission Format
 
-## 🎓 Letter Grade Scale
+- Submit all homework as **a single PDF file** through **UB Learns**.
+- Include your **name**, **UB Person Number**, and the **homework number** on the first page.
+- Clearly label each question and organize your answers in the same order as the assignment.
+- For quantitative problems, **show your work** and clearly identify your final answer.
+- Ensure your submission is complete and readable.
+
+
+### 🎓 Letter Grade Scale
 
 This course uses a **fixed grading scale**. **Grades are not curved.** Your letter grade depends solely on the percentage you earn throughout the semester and is **not** affected by the performance of other students.
 
@@ -232,22 +235,18 @@ This course uses a **fixed grading scale**. **Grades are not curved.** Your lett
 | **D**  | **60–66.9** |
 | **F**  | **Below 60** |
 
-> ⚠️ Final percentages will be calculated to one decimal place. Grades will not be rounded to the next letter-grade threshold.
-
 **Example**
 
-If a student earns:
+Suppose a student earns the following scores:
+- Homework Assignments: **90**
+- Midterm Exam: **84**
+- Final Exam: **92**
+- In-Class Activities: **95**
 
-- Participation: **95**
-- In-Class Group Activities: **90**
-- Homework: **88**
-- Midterm 1: **82**
-- Midterm 2: **86**
-- Final Exam: **91**
+The final percentage is calculated as: (90 × 35%) + (84 × 20%) + (92 × 30%) + (95 × 15%) = **89.6%**
+The resulting letter grade is **B+**.
 
-Then the final percentage is: (95 × 10%) + (90 × 10%) + (88 × 20%) + (82 × 15%) + (86 × 15%) + (91 × 30%) = **88.6%**
-The resulting percentage corresponds to a letter grade of **B+**.
-
+> ⚠️ Final percentages will be calculated to one decimal place. Grades will not be rounded to the next letter-grade threshold.
 
 > ⚠️ **Make-up exams:** A make-up exam may be granted for a documented medical emergency, university-approved absence, religious conflict, or other unavoidable circumstance approved by the instructor. Students should notify the instructor as early as reasonably possible.
 
@@ -255,27 +254,27 @@ The resulting percentage corresponds to a letter grade of **B+**.
   
 ## 📅 Course Calendar
 
-**Legend:** 🟢 HW Due (before class) 🟥 Exam 🟪 No Class
+**Legend:** 🟢 HW Due (before class) 🟥 Exam 🟠 Asynchronous Lecture 🟪 No Class
 
-| Week | Dates | Topic | Monday | Wednesday | Reading Assignment |
+| Week | Dates&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Topic | Monday | Wednesday | Reading Assignment |
 |:---:|:---:|---|---|---|---|
-| **1** | **Aug 24 – Aug 30** | Introduction to Supply Chains & Strategic Fit |  |  | Syllabus; Chapters 1 & 2 |
-| **2** | **Aug 31 – Sep 6** | Strategic Fit & Financial Measures |  | 🟢 HW 1 Due (Blockbuster Case) | Chapter 3 |
-| **3** | **Sep 7 – Sep 13** | Financial Measures | 🟪 Labor Day (No Class) |  |Chapter 3 |
-| **4** | **Sep 14 – Sep 20** | Supply Chain Drivers |  | 🟢 HW 2 Due (Financial Measures) | Chapter 3 |
-| **5** | **Sep 21 – Sep 27** | Supply Chain Networks |  |  | Chapter 4 |
-| **6** | **Sep 28 – Oct 4** | Supply Chain Network Design |  | 🟢 HW 3 Due (Blue Nile Case) | Chapter 5 |
-| **7** | **Oct 5 – Oct 11** | Global Supply Chain Networks |  |  | Chapter 6 |
-| **8** | **Oct 12 – Oct 18** | Forecasting | 🟪 Fall Break (No Class) |  | Chapter 7 |
-| **9** | **Oct 19 – Oct 25** | Midterm & Forecasting | 🟥 Midterm Exam |  | Chapter 7 |
-| **10** | **Oct 26 – Nov 1** | Introduction to Inventory Management |  | 🟢 HW 4 Due (Forecasting) | Chapter 7; Chapter 11 (selected sections) |
-| **11** | **Nov 2 – Nov 8**  | Inventory Management: Cycle Inventory |  |  | Chapter 11 |
-| **12** | **Nov 9 – Nov 15** | Inventory Management: Safety Inventory |  | 🟢 HW 5 Due (Cycle Inventory) | Chapter 12 |
-| **13** | **Nov 16 – Nov 22** | Transportation and Logistics |  | 🟢 HW 6 Due (Safety Inventory) | Chapter 14 |
-| **14** | **Nov 23 – Nov 29** | Transportation and Logistics |  | 🟪 Thanksgiving Recess (No Class) | Chapter 14 |
-| **15** | **Nov 30 – Dec 6** | Emerging Topics in Supply Chain Management |  | 🟢 HW 7 Due (Transportation) | Selected readings |
-| **16** | **Dec 7** | Course Review & Exam Preparation | Course review; last day of classes | — | — |
-| **Final Exam** | **Dec 9** | 🟥 Final Exam | — | **7:15 PM–10:15 PM, Jacobs 110** | — |
+| **1**  | **Aug 24<br>Aug 28**  | Introduction to Supply Chains & Strategic Fit |  |  | Syllabus;<br> Chapters 1 & 2 |
+| **2**  | **Aug 31<br>Sep 04**  | Strategic Fit & Financial Measures |  | 🟢 HW 1 Due (Blockbuster Case) | Chapter 3 |
+| **3**  | **Sep 07<br>Sep 11**  | Financial Measures | 🟪 Labor Day (No Class) |  |Chapter 3 |
+| **4**  | **Sep 14<br>Sep 18**  | Supply Chain Drivers |  | 🟢 HW 2 Due (Financial Measures) | Chapter 3 |
+| **5**  | **Sep 21<br>Sep 25**  | Supply Chain Networks |  |  | Chapter 4 |
+| **6**  | **Sep 28<br>Oct 02**  | Supply Chain Network Design |  | 🟢 HW 3 Due (Blue Nile Case) | Chapter 5 |
+| **7**  | **Oct 05<br>Oct 09**  | Global Supply Chain Networks |  |  | Chapter 6 |
+| **8**  | **Oct 12<br>Oct 16**  | Forecasting | 🟪 Fall Break (No Class) |  | Chapter 7 |
+| **9**  | **Oct 19<br>Oct 23**  | Midterm & Forecasting | 🟥 Midterm Exam |  | Chapter 7 |
+| **10** | **Oct 26<br>Oct 30**  | Introduction to Inventory Management |  | 🟢 HW 4 Due (Forecasting) | Chapter 7;<br> Chapter 11 |
+| **11** | **Nov 02<br>Nov 06** | Inventory Management: Cycle Inventory | 🟠 No in-person class on Nov 2nd;<br> Recorded lecture will be posted |  | Chapter 11 |
+| **12** | **Nov 09<br>Nov 13**  | Inventory Management: Safety Inventory |  | 🟢 HW 5 Due (Cycle Inventory) | Chapter 12 |
+| **13** | **Nov 16<br>Nov 20**  | Transportation and Logistics |  | 🟢 HW 6 Due (Safety Inventory) | Chapter 14 |
+| **14** | **Nov 23<br>Nov 27**  | Transportation and Logistics |  | 🟪 Thanksgiving Recess (No Class) | Chapter 14 |
+| **15** | **Nov 30<br>Dec 04**  | Emerging Topics in Supply Chain Management |  | 🟢 HW 7 Due (Transportation) | Selected readings |
+| **16** | **Dec 07<br>**        | Course Review & Exam Preparation | Course review; last day of classes | — | — |
+| **17** | **Dec 09<br>**        | 🟥 Final Exam | — | **7:15 PM–10:15 PM,<br> Jacobs 110** | — |
 
 
 ---
