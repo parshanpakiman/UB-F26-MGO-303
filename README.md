@@ -7,27 +7,27 @@
 
 ## 📑 Table of Contents
 
-- [Supply Chain Management (MGO 303)](#supply-chain-management-mgo-303)
-  - [📑 Table of Contents](#-table-of-contents)
-  - [👨‍🏫 Instructor](#-instructor)
-  - [🧑‍🏫 Student/Teaching Assistant](#-studentteaching-assistant)
-  - [📌 Logistics](#-logistics)
-  - [🧭 Course Overview and Objectives](#-course-overview-and-objectives)
-  - [📚 Textbook](#-textbook)
-  - [📘 Prerequisite or Co-requisite](#-prerequisite-or-co-requisite)
-  - [💻 Course Technology](#-course-technology)
-    - [UB Learns](#ub-learns)
-    - [Zoom](#zoom)
-    - [Microsoft Excel](#microsoft-excel)
-    - [Generative AI](#generative-ai)
-    - [📢 Student Responsibilities](#-student-responsibilities)
-  - [🧾 Academic Integrity](#-academic-integrity)
-  - [⚠️ Course Materials Policy](#️-course-materials-policy)
-  - [🌍 Inclusive Learning Environment](#-inclusive-learning-environment)
-  - [🏛️ Campus Resources](#️-campus-resources)
-  - [📊 Grading](#-grading)
-    - [Grading Components](#grading-components)
-  - [📅 Course Calendar](#-course-calendar)
+- [👨‍🏫 Instructor](#-instructor)
+- [🧑‍🏫 Student/Teaching Assistant](#-studentteaching-assistant)
+- [📌 Logistics](#-logistics)
+- [🧭 Course Overview and Objectives](#-course-overview-and-objectives)
+- [📚 Textbook](#-textbook)
+- [📘 Prerequisite or Co-requisite](#-prerequisite-or-co-requisite)
+- [💻 Course Technology](#-course-technology)
+  - [UB Learns](#ub-learns)
+  - [Zoom](#zoom)
+  - [Microsoft Excel](#microsoft-excel)
+  - [📝 Homework Submission Format](#-homework-submission-format)
+  - [Generative AI](#generative-ai)
+  - [📢 Student Responsibilities](#-student-responsibilities)
+- [🧾 Academic Integrity](#-academic-integrity)
+- [⚠️ Course Materials Policy](#️-course-materials-policy)
+- [🌍 Inclusive Learning Environment](#-inclusive-learning-environment)
+- [🏛️ Campus Resources](#️-campus-resources)
+- [📊 Grading](#-grading)
+  - [Grading Components](#grading-components)
+- [🎓 Letter Grade Scale](#-letter-grade-scale)
+- [📅 Course Calendar](#-course-calendar)
 
 
 ## 👨‍🏫 Instructor
@@ -81,8 +81,8 @@ Upon successful completion of this course, students will be able to:
 
 
 ## 📚 Textbook
-- The required textbook is *Supply Chain Management: Strategy, Planning, and Operation* (7th Edition) by Sunil Chopra (ISBN: 978-0134731889).
-- [Amazon](https://a.co/d/duJPt5g) offers multiple purchasing and rental options, including lower-cost paperback and used copies. Students are encouraged to select the most affordable option that provides access to the required edition and course material.
+- The required textbook is [*Supply Chain Management: Strategy, Planning, and Operation*](https://www.pearson.com/en-us/subject-catalog/p/supply-chain-management-strategy-planning-and-operation/P200000005863/9780134731889) (7th Edition) by Sunil Chopra (ISBN: 978-0134731889).
+- Students may purchase or rent the textbook from Pearson, Amazon, the UB bookstore, or another retailer. You are encouraged to select the most affordable option that provides access to the required edition and course material.
 - ⚠️ Several homework assignments are based on case studies contained in the textbook. Therefore, students should obtain access to the textbook by the beginning of the semester.
 
 
@@ -92,9 +92,11 @@ Upon successful completion of this course, students will be able to:
 ## 💻 Course Technology
 
 ### UB Learns
-- [UB Learns](https://ublearns.buffalo.edu/) is the primary platform for this course and will serve as the central hub for course materials, announcements, assignment submissions, grades, and feedback.
+
+- [UB Learns](https://ublearns.buffalo.edu/) is the primary platform for this course and will serve as the central hub for course materials, announcements, assignment submissions, grades, feedback, and in-class activities.
+- Students must be able to access UB Learns during every class session using a laptop, tablet, or other suitable device. Many in-class polls, questions, and learning activities will be completed through UB Learns and must be submitted during class.
 - Students are responsible for checking UB Learns regularly and ensuring that their notification settings are properly configured.
-- Please review the [UB Learns Student Guides](https://www.buffalo.edu/lms/guides-students.html) and familiarize yourself with the platform at the beginning of the semester.
+- Please review the [UB Learns Student Guides](https://www.buffalo.edu/lms/guides-students.html) and familiarize yourself with the platform before the beginning of the semester.
 
 ### Zoom
 - Office hours will be offered both in person and online. Online office hours and virtual appointments will be held through Zoom.
@@ -102,47 +104,53 @@ Upon successful completion of this course, students will be able to:
 - The instructor’s Zoom meeting room is available at [https://buffalo.zoom.us/my/pakiman.office.hours](https://buffalo.zoom.us/my/pakiman.office.hours).
 
 ### Microsoft Excel
+
 - Microsoft Excel will be used for selected homework assignments and in-class activities.
 - Students are expected to have Excel installed and to be comfortable with basic spreadsheet operations, formulas, tables, and charts.
 - Students who need additional practice should review the official [Microsoft Excel Help and Learning](https://support.microsoft.com/en-us/excel/) resources before completing Excel-based assignments.
-
-### Generative AI
-Generative AI tools, including ChatGPT, Claude, Gemini, and similar applications, may support learning when used **ethically, transparently, and responsibly**.
-
-#### ✅ Permitted Uses
-- Clarifying course concepts or terminology.
-- Brainstorming examples or alternative approaches.
-- Generating additional practice questions.
-- Improving the grammar, clarity, or formatting of work that you have written.
-- Receiving explanations of formulas or Excel functions after first attempting the work independently.
-
-#### 🚫 Prohibited Uses
-- Using AI to complete homework assignments, in-class activities, quizzes, or exams.
-- Submitting AI-generated content as your own original work.
-- Using AI to generate case analyses, calculations, spreadsheet solutions, or written recommendations for graded work unless the instructor explicitly permits such use.
-- Entering confidential, private, proprietary, or protected information into an AI system.
-
-#### ⚠️ Required Practices
-- **Attempt the work first:** Develop your own draft, analysis, or solution before consulting an AI tool.
-- **Use AI for specific support:** Ask focused questions that help you learn rather than asking the tool to complete an assignment.
-- **Verify all output:** AI-generated information may be inaccurate, incomplete, biased, or fabricated. You are responsible for checking anything you use.
-- **Acknowledge AI use:** Whenever an AI tool is used in a manner permitted by the instructor, include a brief *AI Use Statement* identifying the tool and explaining how it was used. For example:
-  > I used ChatGPT to clarify the interpretation of inventory turnover and to improve the grammar of my final response.
-
-Unauthorized or undisclosed use of AI may constitute an academic-integrity violation. Students should review UB’s [Artificial Intelligence Guidance for Students](https://www.buffalo.edu/academic-integrity/about/artificial-intelligence.html) and [Academic Integrity policies](https://www.buffalo.edu/academic-integrity.html).
-
+- Students are also encouraged to review this [introductory Excel tutorial](https://youtu.be/rro5t8eHXaY?si=NQKcZE0aYiWwZg27) to familiarize themselves with the software.
 
 ### 📢 Student Responsibilities
-1. Ensure that you can access **UB Learns**, your **UB email**, **Zoom**, and **Microsoft Excel** from the beginning of the semester.
-2. Check UB Learns and your UB email regularly for announcements, course updates, assignments, grades, and feedback.
-3. Review and update your [UB Alert contact information](https://emergency.buffalo.edu/sign_up.html) through the HUB Student Center.
-4. Install Microsoft Excel and become familiar with its basic features before the first Excel-based activity.
-5. Complete assigned readings and review course materials before class.
-6. Attend class prepared to participate in discussions, polls, and other in-class activities.
+1. Attend class prepared to participate in discussions, polls, and other in-class activities.
+2. Ensure that you can access **UB Learns**, your **UB email**, **Zoom**, and **Microsoft Excel** from the beginning of the semester.
+3. Check UB Learns and your UB email regularly for announcements, course updates, assignments, grades, and feedback.
+4. Review and update your [UB Alert contact information](https://emergency.buffalo.edu/sign_up.html) through the HUB Student Center.
+5. Install Microsoft Excel and become familiar with its features prior to the first week of the class.
+6. Complete assigned readings and review course materials before class.
 7. Submit all work in the required format and by the stated deadline.
 8. Follow the course policies regarding academic integrity, collaboration, and generative AI.
 9. 🚫 Food is not permitted during class sessions.
 10. 📧 Include **“MGO-303”** in the subject line of all course-related emails.
+
+### 📝 Homework Submission Format
+
+- Submit all homework as **a single PDF file** through **UB Learns**.
+- Include your **name**, **UB Person Number**, and the **homework number** on the first page.
+- Clearly label each question and organize your answers in the same order as the assignment.
+- For quantitative problems, **show your work** and clearly identify your final answer.
+- Ensure your submission is complete and readable.
+
+### Generative AI
+
+Generative AI tools (e.g., ChatGPT, Claude, Gemini) may be used **to support learning, not to replace it**.
+
+#### ✅ Permitted Uses
+- Clarifying course concepts.
+- Brainstorming ideas or examples.
+- Practicing with additional problems.
+- Improving the grammar or clarity of your own writing.
+
+#### 🚫 Not Permitted
+- Using AI to complete homework, in-class activities, quizzes, or exams.
+- Submitting AI-generated work as your own.
+- Using AI to generate solutions for graded assignments unless explicitly authorized by the instructor.
+
+#### ⚠️ Guidelines
+- Attempt the work on your own before using AI.
+- Verify the accuracy of all AI-generated content.
+- When AI use is permitted, include a brief *AI Use Statement* describing how it was used.
+
+Unauthorized or undisclosed use of AI may constitute a violation of UB's Academic Integrity Policy. Please review the [UB Artificial Intelligence Guidance](https://www.buffalo.edu/academic-integrity/about/artificial-intelligence.html) for additional information.
 
 
 ## 🧾 Academic Integrity
@@ -179,10 +187,10 @@ Your academic success and personal well-being are important. Students are encour
 
 | Component | Weight |
 |-----------|-------:|
-| Homework Assignments (7) | **35%** |
+| Homework Assignments (lowest 2 dropped) | **35%** |
 | Midterm Exam | **20%** |
 | Final Exam | **30%** |
-| In-Class Activities | **15%** |
+| In-Class Activities (lowest 4 dropped) | **15%** |
 | **Total** | **100%** |
 
 ### Grading Components
@@ -190,7 +198,7 @@ Your academic success and personal well-being are important. Students are encour
 - **Homework Assignments (35%):** The course includes seven individual homework assignments consisting of case analyses and quantitative problem-solving activities, some of which may be completed in Excel. Assignments are due at the **beginning of class** on the specified due date.
 
   > ⚠️ **Homework Policy**  
-  > 🚫 Because some assignments will be discussed immediately after submission, **late submissions and extensions are not permitted except when required by University policy**. The submission link will automatically close at the deadline, and a missed assignment will receive a zero.  
+  > 🚫 Because some assignments will be discussed immediately after submission, **late submissions and extensions are not permitted**. The submission link will automatically close at the deadline, and a missed assignment will receive a zero.  
   > ✅ To provide flexibility for unexpected circumstances, the **two lowest homework grades will be dropped**. Only the five highest homework grades will count toward the final course grade.
 
   **Example:** If your seven homework grades are 90, 85, 100, 70, 95, 80, and 60, the grades of 60 and 70 will be dropped. Your homework average will be **90%**.
@@ -204,6 +212,44 @@ Your academic success and personal well-being are important. Students are encour
   > ⚠️ **In-Class Activity Policy**  
   > 🚫 In-class activities must be completed during the class session and cannot be completed afterward. A missed activity will therefore receive a zero, except when an accommodation is required by University policy.  
   > ✅ To provide flexibility for occasional absences or unexpected circumstances, the **four lowest in-class activity grades will be dropped** when calculating this portion of the final grade.
+
+
+## 🎓 Letter Grade Scale
+
+This course uses a **fixed grading scale**. **Grades are not curved.** Your letter grade depends solely on the percentage you earn throughout the semester and is **not** affected by the performance of other students.
+
+| Letter Grade | Final Percentage |
+|:-------------|:----------------:|
+| **A**  | **93–100** |
+| **A−** | **90–92.9** |
+| **B+** | **87–89.9** |
+| **B**  | **83–86.9** |
+| **B−** | **80–82.9** |
+| **C+** | **77–79.9** |
+| **C**  | **73–76.9** |
+| **C−** | **70–72.9** |
+| **D+** | **67–69.9** |
+| **D**  | **60–66.9** |
+| **F**  | **Below 60** |
+
+> ⚠️ Final percentages will be calculated to one decimal place. Grades will not be rounded to the next letter-grade threshold.
+
+**Example**
+
+If a student earns:
+
+- Participation: **95**
+- In-Class Group Activities: **90**
+- Homework: **88**
+- Midterm 1: **82**
+- Midterm 2: **86**
+- Final Exam: **91**
+
+Then the final percentage is: (95 × 10%) + (90 × 10%) + (88 × 20%) + (82 × 15%) + (86 × 15%) + (91 × 30%) = **88.6%**
+The resulting percentage corresponds to a letter grade of **B+**.
+
+
+> ⚠️ **Make-up exams:** A make-up exam may be granted for a documented medical emergency, university-approved absence, religious conflict, or other unavoidable circumstance approved by the instructor. Students should notify the instructor as early as reasonably possible.
 
 ---
   
