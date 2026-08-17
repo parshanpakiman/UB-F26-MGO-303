@@ -26,10 +26,11 @@
 - [🏛️ Campus Resources](#️-campus-resources)
 - [📢 Student Responsibilities](#-student-responsibilities)
 - [📊 Grading](#-grading)
-  - [Homework Assignments](#1-homework-assignments-35)
-  - [Midterm Exam](#2-midterm-exam-20)
-  - [Final Exam](#3-final-exam-30)
-  - [In-Class Activities](#4-in-class-activities-15)
+  - [Participation](#1-participation-10)
+  - [In-Class Activities](#2-in-class-activities-10)
+  - [Homework Assignments](#3-homework-assignments-30)
+  - [Midterm Exam](#4-midterm-exam-20)
+  - [Final Exam](#5-final-exam-30)
 - [🎓 Letter Grade Scale](#-letter-grade-scale)
 - [📅 Course Calendar](#-course-calendar)
 - [🟥 Exam Dates and Coverage](#-exam-dates-and-coverage)
@@ -182,15 +183,26 @@ Students are responsible for understanding and following UB’s academic-integri
 
 | Component | Weight |
 |-----------|-------:|
-| Homework Assignments (lowest 2 dropped) | **35%** |
+| Participation (via Top Hat) | **10%** |
+| In-Class Activities (lowest 3 dropped) | **10%** |
+| Homework Assignments (lowest 2 dropped) | **30%** |
 | Midterm Exam (covers Weeks 1–7) | **20%** |
 | Final Exam (Cumulative, with greater emphasis on Weeks 8–15) | **30%** |
-| In-Class Activities (lowest 4 dropped) | **15%** |
 | **Total** | **100%** |
 
 ---
 
-### 1. Homework Assignments (35%):
+### 1. Participation (10%):
+
+Participation is recorded through **Top Hat** using its in-class location verification. Students who are physically present in the classroom will receive participation points; students responding from outside the classroom will not receive credit. This category is separate from scores earned on individual in-class activities.
+
+### 2. In-Class Activities (10%):
+
+During class sessions, the instructor may pose quick questions, polls, or similar activities related to the material being discussed. Students will be given time to think through each question and, when permitted, discuss it with their classmates before submitting an individual response through **UB Learns**. These activities are designed to reinforce key concepts and promote active engagement with the course material.
+
+> ⚠️ **In-Class Activity Policy:** In-class activities **must be completed during the class session** and cannot be completed afterward. A missed activity will therefore receive a zero. To provide flexibility for occasional absences or unexpected circumstances, the **three lowest in-class activity grades will be dropped** when calculating this portion of the final grade.
+
+### 3. Homework Assignments (30%):
 
 The course includes seven individual Homework Assignments consisting of case analyses and quantitative problem-solving activities, some of which may be completed in Excel. Assignments are due through **UB Learns by 4:59 PM** on the specified due date.
 
@@ -207,7 +219,7 @@ The course includes seven individual Homework Assignments consisting of case ana
 > - Students are expected to clearly **show all work** to receive full or partial credit.
 > - Ensure your submission is complete and readable.
  
-### 2. Midterm Exam (20%)
+### 4. Midterm Exam (20%)
 
 The midterm exam assesses the material covered during the first portion of the course. Please see [🟥 Exam Dates and Coverage](#-exam-dates-and-coverage) for the topics covered on the midterm. The exam may include multiple-choice questions, calculations, problem-solving questions, and short written responses.
 
@@ -215,7 +227,7 @@ The midterm exam assesses the material covered during the first portion of the c
 >
 > ⚠️ **Make-up exams:** A make-up exam may be granted for a documented medical emergency, university-approved absence, religious conflict, or other unavoidable circumstance approved by the instructor. Students should notify the instructor as early as reasonably possible.
 
-### 3. Final Exam (30%):
+### 5. Final Exam (30%):
 
 The final exam is comprehensive, with greater emphasis on the second half of the course. Students remain responsible for foundational concepts from the first part of the course. Please see [🟥 Exam Dates and Coverage](#-exam-dates-and-coverage) for additional details.
 
@@ -225,12 +237,6 @@ The final exam is comprehensive, with greater emphasis on the second half of the
 > - **Location:** **Jacobs 110**
 >
 > ⚠️ **Make-up exams:** Make-up final examinations are not ordinarily offered. Exceptions may be made for an official examination conflict or approved accessibility accommodation. Students must notify the instructor as early as reasonably possible and provide any required documentation.
-
-### 4. In-Class Activities (15%):
-
-Throughout the semester, typically during most class sessions, students will complete short polls, submit responses through UB-supported links, and participate in other learning activities designed to reinforce key concepts and promote active engagement.
-
-> ⚠️ **In-Class Activity Policy:** In-class activities **must be completed during the class session** and cannot be completed afterward. A missed activity will therefore receive a zero. To provide flexibility for occasional absences or unexpected circumstances, the **four lowest in-class activity grades will be dropped** when calculating this portion of the final grade.
 
 
 ## 🎓 Letter Grade Scale
@@ -252,12 +258,13 @@ Final course percentages will be reported to one decimal place. A percentage bel
 | **F**  | **Below 60** |
 
 **Example:** Suppose a student earns the following scores:
-- Homework Assignments: **90**
-- Midterm Exam: **84**
-- Final Exam: **92**
-- In-Class Activities: **95**
+- Participation: **90** out of **100**
+- In-Class Activities: **95** out of **100**
+- Homework Assignments: **90** out of **100**
+- Midterm Exam: **84** out of **100**
+- Final Exam: **92** out of **100**
 
-The final percentage is calculated as: (90 × 35%) + (84 × 20%) + (92 × 30%) + (95 × 15%) = **89.6%**. The resulting letter grade is **B+**.
+The final percentage is calculated as: (90 × 10%) + (95 × 10%) + (90 × 30%) + (84 × 20%) + (92 × 30%) = **89.9%** out of **100**. The resulting letter grade is **B+**.
 
 ---
   
