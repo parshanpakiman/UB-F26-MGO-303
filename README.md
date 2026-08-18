@@ -194,7 +194,9 @@ Students are responsible for understanding and following UB’s academic-integri
 
 ### 1. Participation (10%):
 
-Participation is recorded through **Top Hat** using its in-class location verification. Students who are physically present in the classroom will receive participation points; students responding from outside the classroom will not receive credit. This category is separate from scores earned on individual in-class activities.
+Participation is recorded through **Top Hat** using its in-class location verification. Students who are physically present in the classroom will receive participation points; students responding from outside the classroom will not receive credit. This category is separate from scores earned on individual in-class activities. 
+
+> ⚠️ To provide flexibility for illness, family emergencies, or other excused circumstances, up to **4 absences throughout the semester** will not affect your participation grade.
 
 ### 2. In-Class Activities (10%):
 
