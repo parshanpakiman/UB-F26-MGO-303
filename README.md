@@ -44,7 +44,7 @@ University at Buffalo School of Management
 - 📍 Office Location: 343 Jacobs Management Center ([UB map](https://www.buffalo.edu/home/visiting-ub/map.html#JACOBS))
 - 📧 Email: [ParshanP@Buffalo.edu](mailto:parshanp@buffalo.edu)  
 - 🌐 Homepage: [ParshanPakiman.Github.io](https://parshanpakiman.github.io/)  
-- 🕒 Office Hours:  Wednesday, 2:00 PM – 3:00 PM, and by appointment  
+- 🕒 Office Hours:  Wednesday, 3:00 PM – 4:00 PM, and by appointment  
   - 🏢 In-Person:   343 Jacobs Management Center
   - 🔗 Virtual:     [https://buffalo.zoom.us/my/pakiman.office.hours](https://buffalo.zoom.us/my/pakiman.office.hours)  
 
