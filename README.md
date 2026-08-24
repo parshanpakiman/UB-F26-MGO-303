@@ -277,11 +277,11 @@ The final percentage is calculated as: (90 × 10%) + (95 × 10%) + (90 × 30%) +
 | Week | Dates&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Topic | Monday | Wednesday | Reading Assignment |
 |:---:|:---:|---|---|---|---|
 | **1** | **Aug 24<br>Aug 26** | Introduction to Supply Chains & Strategic Fit |  |  | Syllabus;<br>Chapters 1 & 2;<br>🔵 Refresher: Sections 1–5 and 16–19 |
-| **2** | **Aug 31<br>Sep 2** | Strategic Fit & Financial Measures |  | 🟢 HW 1 Due (Blockbuster Case) | Chapter 3 |
+| **2** | **Aug 31<br>Sep 2** | Strategic Fit & Financial Measures |  | 🟢 HW 1 Due (Blockbuster Case; pp. 37-39) | Chapter 3 |
 | **3** | **Sep 7<br>Sep 9** | Financial Measures | 🟪 Labor Day (No Class) |  | Chapter 3 |
 | **4** | **Sep 14<br>Sep 16** | Supply Chain Drivers |  | 🟢 HW 2 Due (Financial Measures) | Chapter 3 |
 | **5** | **Sep 21<br>Sep 23** | Supply Chain Networks |  |  | Chapter 4 |
-| **6** | **Sep 28<br>Sep 30** | Supply Chain Network Design |  | 🟢 HW 3 Due (Blue Nile Case) | Chapter 5 |
+| **6** | **Sep 28<br>Sep 30** | Supply Chain Network Design |  | 🟢 HW 3 Due (Blue Nile Case; pp.98-102) | Chapter 5 |
 | **7** | **Oct 5<br>Oct 7** | Global Supply Chain Networks |  |  | Chapter 6;<br>🔵 Refresher: Sections 6–9 |
 | **8** | **Oct 12<br>Oct 14** | Forecasting | 🟪 Fall Break (No Class) |  | Chapter 7 |
 | **9** | **Oct 19<br>Oct 21** | Midterm & Forecasting | 🟥 Midterm Exam |  | Chapter 7 |
