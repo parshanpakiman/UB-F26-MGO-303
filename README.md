@@ -272,18 +272,18 @@ The final percentage is calculated as: (90 × 10%) + (95 × 10%) + (90 × 30%) +
   
 ## 📅 Course Calendar
 
-**Legend:** 🟢 HW Due (before class) 🟥 Exam 🟠 Asynchronous Lecture 🟪 No Class 🔵 Refresher
+**Legend:** 🟢 HW Due (before class) 🟥 Exam 🟡 Exam Review 🟠 Asynchronous Lecture 🟪 No Class 🔵 Refresher
 
 | Week | Dates&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Topic | Monday | Wednesday | Reading Assignment |
 |:---:|:---:|---|---|---|---|
-| **1** | **Aug 24<br>Aug 26** | Introduction to Supply Chains & Strategic Fit |  |  | Syllabus;<br>Chapters 1 & 2;<br>🔵 Refresher: Sections 1–5 and 16–19 |
+| **1** | **Aug 24<br>Aug 26** | Introduction to Supply Chains & Strategic Fit |  |  | Syllabus;<br>Chapters 1 & 2 (pp. 1–17 and 19–21);<br>🔵 Refresher: Sections 1–5 and 16–19 |
 | **2** | **Aug 31<br>Sep 2** | Strategic Fit & Financial Measures |  | 🟢 HW 1 Due (Blockbuster Case; pp. 37-39) | Chapter 3 |
 | **3** | **Sep 7<br>Sep 9** | Financial Measures | 🟪 Labor Day (No Class) |  | Chapter 3 |
 | **4** | **Sep 14<br>Sep 16** | Supply Chain Drivers |  | 🟢 HW 2 Due (Financial Measures) | Chapter 3 |
 | **5** | **Sep 21<br>Sep 23** | Supply Chain Networks |  |  | Chapter 4 |
 | **6** | **Sep 28<br>Sep 30** | Supply Chain Network Design |  | 🟢 HW 3 Due (Blue Nile Case; pp.98-102) | Chapter 5 |
 | **7** | **Oct 5<br>Oct 7** | Global Supply Chain Networks |  |  | Chapter 6;<br>🔵 Refresher: Sections 6–9 |
-| **8** | **Oct 12<br>Oct 14** | Forecasting | 🟪 Fall Break (No Class) |  | Chapter 7 |
+| **8** | **Oct 12<br>Oct 14** | Forecasting | 🟪 Fall Break (No Class) | 🟡 Midterm Exam Review | Chapter 7 |
 | **9** | **Oct 19<br>Oct 21** | Midterm & Forecasting | 🟥 Midterm Exam |  | Chapter 7 |
 | **10** | **Oct 26<br>Oct 28** | Introduction to Inventory Management |  | 🟢 HW 4 Due (Forecasting) | Chapter 7;<br>Chapter 11 |
 | **11** | **Nov 2<br>Nov 4** | Inventory Management: Cycle Inventory | 🟠 No in-person class;<br>recorded lecture posted on UB Learns |  | Chapter 11;<br>🔵 Refresher: Sections 10–15 |
@@ -291,7 +291,7 @@ The final percentage is calculated as: (90 × 10%) + (95 × 10%) + (90 × 30%) +
 | **13** | **Nov 16<br>Nov 18** | Transportation and Logistics |  | 🟢 HW 6 Due (Safety Inventory) | Chapter 14 |
 | **14** | **Nov 23<br>Nov 25** | Transportation and Logistics |  | 🟪 Thanksgiving Recess (No Class) | Chapter 14 |
 | **15** | **Nov 30<br>Dec 2** | Emerging Topics in Supply Chain Management |  | 🟢 HW 7 Due (Transportation) | Selected readings |
-| **16** | **Dec 7** | Course Review & Exam Preparation | Course review; last day of classes | — | — |
+| **16** | **Dec 7** | Course Review & Exam Preparation | 🟡 Final Exam Review;<br>last day of classes | — | — |
 | **Final Exam** | **Dec 9** | Final Exam Week | — | 🟥 **Final Exam: 7:15 PM–10:15 PM, Jacobs 110** | — |
 
 🔵 **Mathematical & Statistical Refresher:** Review the relevant sections at your own pace or according to the schedule above before those quantitative tools are used in class. Access the refresher at [UB-F26-Math-Stats-Refresher](https://github.com/parshanpakiman/UB-F26-Math-Stats-Refresher).
