@@ -277,7 +277,7 @@ The final percentage is calculated as: (90 × 10%) + (95 × 10%) + (90 × 30%) +
 | Week | Dates&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Topic | Monday | Wednesday | Reading Assignment |
 |:---:|:---:|---|---|---|---|
 | **1** | **Aug 24<br>Aug 26** | Introduction to Supply Chains & Strategic Fit |  |  | Syllabus;<br>Chapters 1 & 2 (pp. 1–17 and 19–21);<br>🔵 Refresher: Sections 1–5 and 16–19 |
-| **2** | **Aug 31<br>Sep 2** | Strategic Fit & Financial Measures |  | 🟢 HW 1 Due (Blockbuster Case; pp. 37-39) | Chapter 3 |
+| **2** | **Aug 31<br>Sep 2** | Strategic Fit |  | 🟢 HW 1 Due (Blockbuster Case; pp. 37-39) | Chapter 2 (pp. 21-39) |
 | **3** | **Sep 7<br>Sep 9** | Financial Measures | 🟪 Labor Day (No Class) |  | Chapter 3 (pp. 40-45) |
 | **4** | **Sep 14<br>Sep 16** | Supply Chain Drivers |  | 🟢 HW 2 Due (Financial Measures; pp. 68) | Chapter 3 (pp. 45-68) |
 | **5** | **Sep 21<br>Sep 23** | Distribution Networks & Applications |  |  | Chapter 4 |
