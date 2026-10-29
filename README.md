@@ -286,7 +286,7 @@ The final percentage is calculated as: (90 × 10%) + (95 × 10%) + (90 × 30%) +
 | **8** | **Oct 12<br>Oct 14** | Forecasting | 🟪 Fall Break (No Class) | 🟡 Midterm Exam Review | Chapter 7 |
 | **9** | **Oct 19<br>Oct 21** | Midterm & Forecasting | 🟥 Midterm Exam |  | Chapter 7 |
 | **10** | **Oct 26<br>Oct 28** | Introduction to Inventory Management |  | 🟢 HW 5 Due (Forecasting; on UBLearns) | Chapter 7;<br>Chapter 11 |
-| **11** | **Nov 2<br>Nov 4** | Inventory Management: Cycle Inventory | 🟠 No in-person class;<br>recorded lecture posted on UB Learns |  | Chapter 11;<br>🔵 Refresher: Sections 10–15 |
+| **11** | **Nov 2<br>Nov 4** | Inventory Management: Cycle Inventory | 🟠 No in-person class |  | Chapter 11;<br>🔵 Refresher: Sections 10–15 |
 | **12** | **Nov 9<br>Nov 11** | Inventory Management: Safety Inventory |  | 🟢 HW 6 Due (Cycle Inventory) | Chapter 12 |
 | **13** | **Nov 16<br>Nov 18** | Transportation and Logistics |  | 🟢 HW 7 Due (Safety Inventory) | Chapter 14 |
 | **14** | **Nov 23<br>Nov 25** | Transportation and Logistics |  | 🟪 Thanksgiving Recess (No Class) | Chapter 14 |
