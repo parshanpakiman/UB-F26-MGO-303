@@ -288,8 +288,8 @@ The final percentage is calculated as: (90 × 10%) + (95 × 10%) + (90 × 30%) +
 | **10** | **Oct 26<br>Oct 28** | Introduction to Inventory Management |  | 🟢 HW 5 Due (Forecasting; on UBLearns) | Chapter 7;<br>Chapter 11 |
 | **11** | **Nov 2<br>Nov 4** | Inventory Management: Cycle Inventory | 🟠 No in-person class |  | Chapter 11;<br>🔵 Refresher: Sections 10–15 |
 | **12** | **Nov 9<br>Nov 11** | Inventory Management: Safety Inventory |  | 🟢 HW 6 Due (Cycle Inventory) | Chapter 12 |
-| **13** | **Nov 16<br>Nov 18** | Transportation and Logistics |  | 🟢 HW 7 Due (Safety Inventory) | Chapter 14 |
-| **14** | **Nov 23<br>Nov 25** | Transportation and Logistics |  | 🟪 Thanksgiving Recess (No Class) | Chapter 14 |
+| **13** | **Nov 16<br>Nov 18** | Transportation and Logistics |  |  | Chapter 14 |
+| **14** | **Nov 23<br>Nov 25** | Transportation and Logistics | 🟢 HW 7 Due (Safety Inventory) | 🟪 Thanksgiving Recess (No Class) | Chapter 14 |
 | **15** | **Nov 30<br>Dec 2** | Emerging Topics in Supply Chain Management |  | 🟢 HW 8 Due (Transportation) | Selected readings |
 | **16** | **Dec 7** | Course Review & Exam Preparation | 🟡 Final Exam Review;<br>last day of classes | — | — |
 | **Final Exam** | **Dec 9** | Final Exam Week | — | 🟥 **Final Exam: 7:15 PM–10:15 PM, Jacobs 110** | — |
